@@ -1,2 +1,3 @@
 # MMP 240
-Course template
+[Course template](https://gohonbl.github.io/mmp240n/)
+
